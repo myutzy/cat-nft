@@ -1,5 +1,4 @@
 # Cat NFT
-![Kitten](images/kitten.jpg)
 ERC-721 NFT created as part of studying Solidity, Remix IDE, OpenZeppelin, and the Ethereum Goerli testnet. Used Node and Hardhat to compile and deploy the contract.
 
 Contract deployed to Ethereum Goerli testnet at address `0x763a0465754aC7a4ee3b87cEb2eE1e5A58711744`
